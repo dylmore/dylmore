@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dylmore
+- 👋 Hi, I’m @dylmore (Dylan Carey)
 - 👀 I’m interested in creating games!
 - 🌱 I’m currently learning Unreal and Unity engine.
 - 💞️ I’m looking to collaborate on any projects that can help build my repertoire and skill base
