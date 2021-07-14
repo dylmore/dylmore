@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Unreal and Unity engine.
 - 💞️ I’m looking to collaborate on any projects that can help build my repertoire and skill base
 - 📫 How to reach me dylanocarey@gmail.com
+- PLEASE CONTACT FOR ACCESS TO REPOSITORIES!
 
 <!---
 dylmore/dylmore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
